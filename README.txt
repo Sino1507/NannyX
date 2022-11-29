@@ -3,7 +3,7 @@ The script is for the game: https://www.roblox.com/games/7169897329/Nanny-HORROR
 Since i am new to programming for roblox games I chose this game, because it is quit simple.
 
 How to Use:
-1. Copy the Script from the toExecute.lua file in this repo.
+1. Copy the Script from the ToExecute.lua file in this repo.
 2. Put in your EC.
 3. Inject.
 4. Enjoy!
